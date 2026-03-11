@@ -6,6 +6,7 @@ Description:
 ## Team Members
 
 - Simeon Grant
+- Ian Wall
 
 ## Quick Start
 
