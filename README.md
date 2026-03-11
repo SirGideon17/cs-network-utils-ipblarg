@@ -7,6 +7,7 @@ Description:
 
 - Simeon Grant
 - Ian Wall
+- Seth McDaniel
 
 ## Quick Start
 
